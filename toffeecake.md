@@ -1,4 +1,6 @@
 #ingredient
--sugar
--egg
+- sugar
+- egg
+- golden syrup
+- flour
 #instructions
